@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Studify**
-
 - 🌱 I’m currently learning **javascript**
 
 - 👯 I’m looking to collaborate on **Website development**
