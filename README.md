@@ -1,3 +1,5 @@
+<img align="centre" alt="Banner" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1695566586~exp=1695567186~hmac=c2cbe69598f0fc2832b96e6e3874378558ad74ad41546baa03baafda9d79e843" />
+
 <h1 align="center">Yo 👋, I'm Yash Mehrotra</h1>
 <h3 align="center">A passionate developer from India!!</h3>
 
