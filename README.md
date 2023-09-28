@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redxdager&show_icons=true&locale=en" alt="redxdager" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redxdager&" alt="redxdager" /></p>
+
 
 ## 🌐 Social handles
 
