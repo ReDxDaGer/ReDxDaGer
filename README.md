@@ -39,4 +39,4 @@
 
 ## 🌐 Social handles
 
-<a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130" height="30"> </a> &nbsp; <a href="www.linkedin.com/in/yash-mehrotraiit"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "130" height ="30">
+<a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130" height="30"> </a> &nbsp; <a href="https://www.linkedin.com/in/yash-mehrotraiit"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "130" height ="30">
