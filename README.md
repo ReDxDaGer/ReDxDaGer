@@ -39,4 +39,4 @@
 
 ## 🌐 Social handles
 
-<a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://imgs.search.brave.com/L6okuc3c98Z3uxIG9fOvUOd80m3NtR-1Nh3tKbEq7s4/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85Lzk1L0lu/c3RhZ3JhbV9sb2dv/XzIwMjIuc3ZnLzUx/MnB4LUluc3RhZ3Jh/bV9sb2dvXzIwMjIu/c3ZnLnBuZw" width="60" height="60"> </a> &nbsp; <a href="www.linkedin.com/in/yash-mehrotraiit"> <img src = "https://imgs.search.brave.com/WNRzH5rYSqqqU-CYVp9nyQg1wZok750zv1B7KfTf6tQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4w/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvc2hpZnQtbG9n/b3R5cGVzLzMyL0xp/bmtlZGluLTEyOC5w/bmc" width= "60" height ="60">
+<a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130" height="30"> </a> &nbsp; <a href="www.linkedin.com/in/yash-mehrotraiit"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "130" height ="30">
