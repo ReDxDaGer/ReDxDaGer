@@ -64,4 +64,4 @@
 
 # 📛 Badges
 
-![An image of @redxdager's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redxdager)
+[![An image of @redxdager's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redxdager)](https://holopin.io/@redxdager)
