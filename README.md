@@ -54,12 +54,12 @@
 
   # My Stats 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redxdager&show_icons=true&locale=en&layout=compact" alt="redxdager" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redxdager&show_icons=true&locale=en" alt="redxdager" /></p>
-
-
-
+  <p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
+  <p align = "centre">
+    <img width = 48.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
+    <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
+  </p>
+  
 # 🌐 Social handles
 
 <a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130" height="30"> </a> &nbsp; <a href="https://www.linkedin.com/in/yash-mehrotraiit"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "130" height ="30">
