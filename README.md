@@ -2,7 +2,7 @@
 
 <h1 align="center">Yo 👋, I'm Yash Mehrotra</h1>
 <h3 align="center">A passionate developer from India!!</h3>
-<h3 align="center">AI and ML enthusiased | Fullstack dveloper </h3>
+<h3 align="center">AI and ML enthusiased | Fullstack developer </h3>
 <h3 align= "center">🔭 Currently focusing on Data Science </h3>
 
 
