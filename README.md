@@ -3,10 +3,10 @@
 <h1 align="center">Yo 👋, I'm Yash Mehrotra</h1>
 <h3 align="center">A passionate developer from India!!</h3>
 <h3 align="center">AI and ML enthusiased | Fullstack developer </h3>
-<h3 align= "center">🔭 Currently focusing on Data Science </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redxdager&label=Profile%20views&color=0e75b6&style=flat" alt="redxdager" /> </p>
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=redxdager&label=Profile%20views&color=0e75b6&style=flat" alt="redxdager" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Website development**
 
-- 💬 Ask me about **HTML , CSS , Python ,Java**
+- 💬 Ask me about **HTML , CSS , Python , JavaScript , ReactJs ,React Native**
 
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
