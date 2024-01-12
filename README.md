@@ -1,11 +1,9 @@
 <img align="centre" alt="Banner" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1695566586~exp=1695567186~hmac=c2cbe69598f0fc2832b96e6e3874378558ad74ad41546baa03baafda9d79e843" />
 
 <h1 align="center">Yo 👋, I'm Yash Mehrotra</h1>
-<h3 align="center">A passionate developer from India!!</h3>
-<h3 align="center">AI and ML enthusiased | Fullstack developer </h3>
 
-
-
+<h3 align='left'>
+I am a passionate developer from India, specializing in web and cross-platform app development. My expertise includes Python, React.js, React Native, and TypeScript. Proficient in languages such as JavaScript, HTML, and CSS, I utilize Git and GitHub for version control. Alongside my commitment to learning and adaptability, I thrive in different tech environments, aiming to deliver high-quality solutions. My troubleshooting skills enable me to identify and resolve errors effectively, contributing to the success of every project. Currently focusing on Data Science, I am also an AI and ML enthusiast and a full-stack developer. My goal is to continuously improve my skills and bring innovative approaches to enhance the development process.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=redxdager&label=Profile%20views&color=0e75b6&style=flat" alt="redxdager" /> </p> -->
 
@@ -29,11 +27,6 @@
 </a>
 <p align="left">
 </p>
-
-
-<br>
-
-<h3 align='left'>As a versatile web and cross-platform app developer, I specialize in Python, React.js, React Native, and TypeScript. Proficient in languages like JavaScript, HTML, and CSS, I use Git and GitHub for version control. With a commitment to learning and adaptability, I work well in different tech environments, aiming to deliver high-quality solutions. My troubleshooting skills enable me to effectively identify and resolve errors, contributing to the success of every project. My goal is to continuously improve my skills and bring innovative approaches to enhance the development process.</h3>
 
 
 <h2 align="left">Languages :</h2>
