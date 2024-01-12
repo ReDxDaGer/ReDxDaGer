@@ -6,6 +6,7 @@
 
 
 
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=redxdager&label=Profile%20views&color=0e75b6&style=flat" alt="redxdager" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -22,9 +23,18 @@
 
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
-<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/yash-mehrotraiit">Linkedin</a>
+<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/yash-mehrotraiit">Linkedin
+
+
+</a>
 <p align="left">
 </p>
+
+
+<br>
+
+<h3 align='left'>As a versatile web and cross-platform app developer, I specialize in Python, React.js, React Native, and TypeScript. Proficient in languages like JavaScript, HTML, and CSS, I use Git and GitHub for version control. With a commitment to learning and adaptability, I work well in different tech environments, aiming to deliver high-quality solutions. My troubleshooting skills enable me to effectively identify and resolve errors, contributing to the success of every project. My goal is to continuously improve my skills and bring innovative approaches to enhance the development process.</h3>
+
 
 <h2 align="left">Languages :</h2>
 
