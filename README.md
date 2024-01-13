@@ -64,7 +64,7 @@
   # My Stats 
  <div align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![ReDxDaGer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDxDaGer&theme=catppuccin_mocha&show_icons=true)
 
 </div>
   <p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
