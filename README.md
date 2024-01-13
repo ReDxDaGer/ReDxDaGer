@@ -2,12 +2,13 @@
 
 <h1 align="center">Yo 👋, I'm Yash Mehrotra</h1>
 
-<h3 align='left'>
-I am a passionate developer from India, specializing in web and cross-platform app development. My expertise includes Python, React.js, React Native, and TypeScript. Proficient in languages such as JavaScript, HTML, and CSS, I utilize Git and GitHub for version control. Alongside my commitment to learning and adaptability, I thrive in different tech environments, aiming to deliver high-quality solutions. My troubleshooting skills enable me to identify and resolve errors effectively, contributing to the success of every project. Currently focusing on Data Science, I am also an AI and ML enthusiast and a full-stack developer. My goal is to continuously improve my skills and bring innovative approaches to enhance the development process.</h3>
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=redxdager&label=Profile%20views&color=0e75b6&style=flat" alt="redxdager" /> </p> -->
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
++ ### 🇮🇳 Passionate web & app developer in India.
+  
++ ### ⚠️ Adaptable, troubleshooting, high-quality solutions.
+  
++ ### 📈 Focused on Data Science, AI/ML enthusiast.
+  
++ ### 🕥 Continuous skill improvement, innovation.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
