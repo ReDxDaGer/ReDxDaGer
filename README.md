@@ -62,9 +62,13 @@
   ![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDxDaGer&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
 
   # My Stats 
+ <div align="left">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+</div>
   <p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
-  <p align = "centre">
+  <p align = "centre"> 
     <img width = 48.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
     <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
   </p>
