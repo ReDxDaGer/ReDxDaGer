@@ -12,13 +12,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🧠 Earning experience through **Freelancing** and **Hackathons**
+- ### 🧠 Earning experience through **Freelancing** and **Hackathons**
 
-- 🌱 I’m currently learning **App Development**
+- ### 🌱 I’m currently learning **App Development**
 
-- 👯 I’m looking to collaborate on **Website development**
+- ### 👯 I’m looking to collaborate on **Website development**
 
-- 💬 Ask me about **HTML , CSS , Python , JavaScript , ReactJs ,React Native**
+- ### 💬 Ask me about **HTML , CSS , Python , JavaScript , ReactJs ,React Native**
 
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
