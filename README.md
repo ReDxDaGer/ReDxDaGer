@@ -2,7 +2,7 @@
 
 <h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Yash Mehrotra</h1>
 
-+ ### 🇮🇳 Passionate web & app developer in India.
++ ### 🇮🇳 Passionate web & app developer from India.
   
 + ### ⚠️ Adaptable, troubleshooting, high-quality solutions.
   
