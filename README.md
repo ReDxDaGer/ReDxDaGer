@@ -18,8 +18,6 @@
 
 - ### 👯 I’m looking to collaborate on **Website development**
 
-- ### 💬 Ask me about **HTML , CSS , Python , JavaScript , ReactJs ,React Native**
-
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
 <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/yash-mehrotraiit">Linkedin
