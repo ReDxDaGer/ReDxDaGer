@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
+- ### 💼 [My Portfolio](https://ifyash.vercel.app) 
+
 <h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/yash-mehrotraiit">Linkedin
 
 
