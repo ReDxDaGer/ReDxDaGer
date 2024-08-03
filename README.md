@@ -20,10 +20,6 @@
 
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
-- ### 💼 [My Portfolio](https://ifyash.vercel.app) 
-
-<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/yash-mehrotraiit">Linkedin
-
 
 </a>
 <p align="left">
@@ -80,9 +76,7 @@
     <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
   </p>
   
-# 🌐 Social handles
 
-<a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130" height="30"> </a> &nbsp; <a href="https://www.linkedin.com/in/yash-mehrotraiit"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "130" height ="30" /> &nbsp; <a href="https://twitter.com/Yashpy7"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yash"  width= "130" height ="30"/></a>
 
 # 📛 Badges
 
