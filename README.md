@@ -20,8 +20,7 @@
 
 - 📫 How to reach me **yashmehrotra45@gmail.com**
 
-
-</a>
+- <h3 align="left">Connect with me :)</h3> 
 <p align="left">
 </p>
 
