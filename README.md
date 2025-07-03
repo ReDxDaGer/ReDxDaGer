@@ -2,28 +2,27 @@
 
 <h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Yash Mehrotra</h1>
 
-+ ### 🇮🇳 Passionate web & app developer from India.
++ ### 🇮🇳 Versatile **Full Stack, CV & LLM Developer** from India.
   
-+ ### ⚠️ Adaptable, troubleshooting, high-quality solutions.
++ ### ⚠️ Strong at debugging, problem-solving & delivering scalable solutions.
   
-+ ### 📈 Focused on Data Science, AI/ML enthusiast.
++ ### 📈 Focused on **AI/ML, Deep Learning, and Large Language Models**.
   
-+ ### 🕥 Continuous skill improvement, innovation.
++ ### 🕥 Always evolving — blending creativity with logic.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- ### 🧠 Earning experience through **Freelancing** and **Hackathons**
+- ### 🧠 Gaining hands-on experience through **Freelancing**, **Hackathons**, and **Research Prototypes**
 
-- ### 🌱 I’m currently learning **App Development**
+- ### 🌱 Currently diving deeper into **Advanced Vision Models** and **LLM APIs**
 
-- ### 👯 I’m looking to collaborate on **Website development**
+- ### 👯 Looking to collaborate on **LLM, CV, and Full Stack Projects**
 
-- 📫 How to reach me **yashmehrotra45@gmail.com**
+- 📧 Reach me at **yashmehrotra45@gmail.com**
 
-- <h3 align="left">Connect with me :)</h3> 
+<h3 align="left">Connect with me :)</h3> 
 <p align="left">
 </p>
-
 
 <h2 align="left">Skills :</h2>
 
@@ -56,27 +55,24 @@
 
 <img src="https://imgs.search.brave.com/dhlg2llpJiilp7TBoA4ENKc4IhwzDMdr33Y_iY_8kvA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzlhL1Zp/c3VhbF9TdHVkaW9f/Q29kZV8xLjM1X2lj/b24uc3ZnLzUxMnB4/LVZpc3VhbF9TdHVk/aW9fQ29kZV8xLjM1/X2ljb24uc3ZnLnBu/Zw" width = "60" height = "60"/> <img src = "https://imgs.search.brave.com/emnFTmUzq4BKVcmPKxw8ob3QVwpJhGEUtwrOzZIBqnI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qdXB5/dGVyLm9yZy9hc3Nl/dHMvdHJ5L2p1cHl0/ZXIucG5n" width = "60" height = "60"  />
 <img src ="https://imgs.search.brave.com/RUoK3EF7Fjo4yuClAeJHqCHsFTzZ_KnBrhQBsswKZ50/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9rYWdnbGUt/aWNvbi0xMDI0eDEw/MjQtMGoxcDVibzUu/cG5n" width = "50" height = "50" bottom = "10" /> &nbsp;
-<img src="https://imgs.search.brave.com/2Nheu-ZFntOg9MQfXbiKgfwN87Bzu_3LHYy_cre_ZQA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzMw/a2l4L3N0eWxlcy9j/b21tdW5pdHlJY29u/X24yaHZ5bjk2endr/ODEucG5n" width = "60" height = "60" left=''/>
+<img src="https://imgs.search.brave.com/2Nheu-ZFntOg9MQfXbiKgfwN87Bzu_3LHYy_cre_ZQA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzMw/a2l4L3N0eWxlcy9j/b21tdW5pdHlJY29u/X24yaHZ5bjk2endr/ODEucG5n" width = "60" height = "60" left='' />
 
+# 📈 Contribution Graph
 
-  # 📈 Contribution Graph
+![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDxDaGer&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
 
-  ![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDxDaGer&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
-
-  # My Stats 
- <div align="left">
+# My Stats 
+<div align="left">
 
 ![ReDxDaGer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDxDaGer&theme=catppuccin_mocha&show_icons=true)
 
 </div>
-  <p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
-  <p align = "centre"> 
-    <img width = 48.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
-    <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
-  </p>
-  
+<p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
+<p align = "centre"> 
+  <img width = 48.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
+  <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
+</p>
 
-
-# 📛 Badges
+# 📻 Badges
 
 [![An image of @redxdager's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redxdager)](https://holopin.io/@redxdager)
