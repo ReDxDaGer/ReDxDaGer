@@ -1,78 +1,96 @@
-<img align="centre" alt="Banner" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1695566586~exp=1695567186~hmac=c2cbe69598f0fc2832b96e6e3874378558ad74ad41546baa03baafda9d79e843" />
-
-<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Yash Mehrotra</h1>
-
-+ ### 🇮🇳 Versatile **Full Stack, CV & LLM Developer** from India.
-  
-+ ### ⚠️ Strong at debugging, problem-solving & delivering scalable solutions.
-  
-+ ### 📈 Focused on **AI/ML, Deep Learning, and Large Language Models**.
-  
-+ ### 🕥 Always evolving — blending creativity with logic.
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-- ### 🧠 Gaining hands-on experience through **Freelancing**, **Hackathons**, and **Research Prototypes**
-
-- ### 🌱 Currently diving deeper into **Advanced Vision Models** and **LLM APIs**
-
-- ### 👯 Looking to collaborate on **LLM, CV, and Full Stack Projects**
-
-- 📧 Reach me at **yashmehrotra45@gmail.com**
-
-<h3 align="left">Connect with me :)</h3> 
-<p align="left">
+<!-- Centered Logo (The AlgoFarm Dotted Hyper-Lattice) -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="340" height="auto">
+    <rect width="100%" height="100%" fill="#050506" rx="16"/>
+    <defs>
+      <linearGradient id="glowGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00A3FF" />
+        <stop offset="100%" stop-color="#00FF66" />
+      </linearGradient>
+      <linearGradient id="axisFade" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.25"/>
+        <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+      </linearGradient>
+    </defs>
+    <g transform="translate(200, 115)">
+      <line x1="-80" y1="46" x2="80" y2="-46" stroke="url(#axisFade)" stroke-width="1.2" />
+      <line x1="-80" y1="-46" x2="80" y2="46" stroke="url(#axisFade)" stroke-width="1.2" />
+      <line x1="0" y1="-85" x2="0" y2="85" stroke="url(#axisFade)" stroke-width="1.2" />
+      <polygon points="-80,-46 0,-85 80,-46 80,46 0,85 -80,46" fill="none" stroke="#52525B" stroke-width="1.2" stroke-dasharray="5 4" />
+      <circle cx="-50" cy="-40" r="3.5" fill="#3F3F46" />
+      <circle cx="-25" cy="-55" r="3.5" fill="#3F3F46" />
+      <circle cx="25" cy="-55" r="3.5" fill="#3F3F46" />
+      <circle cx="50" cy="-40" r="3.5" fill="#3F3F46" />
+      <circle cx="-65" cy="0" r="3.5" fill="#27272A" />
+      <circle cx="65" cy="0" r="3.5" fill="#27272A" />
+      <polyline points="-40,40 -15,20 20,45 50,20 15,55 -20,35 -40,40" fill="none" stroke="url(#glowGrad)" stroke-width="1.5" stroke-opacity="0.4" />
+      <circle cx="-40" cy="40" r="4.5" fill="#00A3FF" />
+      <circle cx="-15" cy="20" r="5" fill="#FFFFFF" />
+      <circle cx="20" cy="45" r="6" fill="url(#glowGrad)" />
+      <circle cx="50" cy="20" r="7" fill="#00FF66" />
+      <circle cx="15" cy="55" r="5" fill="url(#glowGrad)" />
+      <circle cx="-20" cy="35" r="4" fill="#00A3FF" />
+      <circle cx="45" cy="60" r="3.5" fill="#00FF66" opacity="0.7"/>
+      <circle cx="-55" cy="20" r="3.5" fill="#00A3FF" opacity="0.7"/>
+      <circle cx="0" cy="0" r="5" fill="#050506" stroke="#00FF66" stroke-width="2"/>
+    </g>
+    <text x="200" y="278" fill="#FAFAFA" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="900" letter-spacing="-0.05em">AlgoFarm</text>
+  </svg>
 </p>
 
-<h2 align="left">Skills :</h2>
+## 🦀⚙️ *"go 500% everyday"*
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+> <i>computer vision, edge AI engineer + ML developer with a passion for high-frequency charts & neo-retro bikes</i>
 
-# Tools 🛠️ 
+I optimize real-time deep learning pipelines and deploy computer vision systems on low-power edge hardware. The objective is to design hyper-lightweight, high-throughput model architectures running at maximum physical frame rates. 🦀⚙️
 
-<img src="https://imgs.search.brave.com/dhlg2llpJiilp7TBoA4ENKc4IhwzDMdr33Y_iY_8kvA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzlhL1Zp/c3VhbF9TdHVkaW9f/Q29kZV8xLjM1X2lj/b24uc3ZnLzUxMnB4/LVZpc3VhbF9TdHVk/aW9fQ29kZV8xLjM1/X2ljb24uc3ZnLnBu/Zw" width = "60" height = "60"/> <img src = "https://imgs.search.brave.com/emnFTmUzq4BKVcmPKxw8ob3QVwpJhGEUtwrOzZIBqnI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qdXB5/dGVyLm9yZy9hc3Nl/dHMvdHJ5L2p1cHl0/ZXIucG5n" width = "60" height = "60"  />
-<img src ="https://imgs.search.brave.com/RUoK3EF7Fjo4yuClAeJHqCHsFTzZ_KnBrhQBsswKZ50/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9rYWdnbGUt/aWNvbi0xMDI0eDEw/MjQtMGoxcDVibzUu/cG5n" width = "50" height = "50" bottom = "10" /> &nbsp;
-<img src="https://imgs.search.brave.com/2Nheu-ZFntOg9MQfXbiKgfwN87Bzu_3LHYy_cre_ZQA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzMw/a2l4L3N0eWxlcy9j/b21tdW5pdHlJY29u/X24yaHZ5bjk2endr/ODEucG5n" width = "60" height = "60" left='' />
+  <a href="https://x.com/intent/follow?screen_name=Yashpy7" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yashmehrotraiit" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-# 📈 Contribution Graph
+---
 
-![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDxDaGer&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
+## XP
+*Detailed writeups on optimizing models, Quantization-Aware Training (QAT), and TensorRT execution are hosted directly on my repositories.*
 
-# My Stats 
-<div align="left">
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Company/Institution</th>
+      <th>Location</th>
+      <th>Dates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data Science Intern</b></td>
+      <td>IIT Madras</td>
+      <td>Chennai, India</td>
+      <td>Dec 2024 - May 2025</td>
+    </tr>
+    <tr>
+      <td><b>AI Development Intern</b></td>
+      <td>SkyGad</td>
+      <td>Remote</td>
+      <td>Aug 2024 - Dec 2024</td>
+    </tr>
+  </tbody>
+</table>
 
-![ReDxDaGer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDxDaGer&theme=catppuccin_mocha&show_icons=true)
+---
 
-</div>
-<p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
-<p align = "centre"> 
-  <img width = 48.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
-  <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
-</p>
+### Featured Deployments & Projects
 
-# 📻 Badges
+*   **⚡ Real-Time Traffic & Surveillance Pipeline (IIT Madras):** Deployed directional-aware YOLOv5/v8 object detection on NVIDIA Jetson systems. Compressed layers via TensorRT to maintain high real-time throughput. Integrated Annoy-based access tracking and automated reporting mechanisms.
+*   **👁️ Face Recognition & Temporal Tracking System:** Real-time facial validation linking YOLOv8, ByteTrack, and ArcFace embeddings queried against a dynamic FAISS index. Stabilized with temporal label smoothing across video sequences.
+*   **🤖 RAVA (Retrieval-Augmented Virtual Assistant):** Memory-enabled conversational agent utilizing LangGraph, Google Gemini API, and Annoy index indexing for per-user localized context.
+*   **📐 NumPy Feedforward Neural Network (CS6910):** Built a deep feedforward network from absolute scratch (zero PyTorch/TF autodiff). Custom-implemented 6 optimizers (SGD, Adam, Nadam, RMSProp) and used WandB sweeps to benchmark Fashion-MNIST accuracy.
 
-[![An image of @redxdager's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redxdager)](https://holopin.io/@redxdager)
+---
+
+### Community & Engagement
+
+*   **Google Developer Student Club (GDSC) IIT Madras** — Core Team Member & Technical Speaker ("Git and GitHub", "Dumping of Windows").
+*   **Linux Community Lead** — IIT Madras.
+*   **Al Horizons Conference** — Co-organized academic AI horizons forum alongside Prof. Sudarshan Iyengar.
+*   **Smart India Hackathon** — Runner-up (2023).
